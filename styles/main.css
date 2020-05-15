@@ -971,3 +971,28 @@ pre code {
     margin-top: 5px;
   }
 }
+
+      .posttitlewithoutimg {
+        color: #66d9e8;
+      }
+    
+      .sitename {
+        color: #cc5de8;
+      }
+    
+        .describtion {
+          color: #d0bfff;
+        }
+      
+        .menubutton {
+          color: #cc5de8;
+        }
+      
+        .posttitle {
+          color: #66d9e8;
+        }
+      
+        #sitegotimeDate,#sitegotimes,#footinfo,#footinfo a{
+          color: #66d9e8;
+        }
+      
