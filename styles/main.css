@@ -973,7 +973,7 @@ pre code {
 }
 
       .posttitlewithoutimg {
-        color: #66d9e8;
+        color: #91a7ff;
       }
     
       .sitename {
@@ -981,18 +981,14 @@ pre code {
       }
     
         .describtion {
-          color: #d0bfff;
+          color: #dee2e6;
         }
       
         .menubutton {
-          color: #cc5de8;
+          color: #91a7ff;
         }
       
         .posttitle {
-          color: #66d9e8;
-        }
-      
-        #sitegotimeDate,#sitegotimes,#footinfo,#footinfo a{
-          color: #66d9e8;
+          color: #91a7ff;
         }
       
